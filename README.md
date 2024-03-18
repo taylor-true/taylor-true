@@ -1,6 +1,6 @@
 ### Welcome!
 
-Taylor M. True
+Taylor True
 <br>
 Harvard Graduate School of Education, Education Policy & Analysis (2024)
 <br>
