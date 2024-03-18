@@ -3,7 +3,8 @@
 Taylor True
 <br>
 Harvard Graduate School of Education, Education Policy & Analysis (2024)
-<br>
+<br><br>
+<a href="https://taylor-true.github.io/">Portfolio</a> | <a href="https://twitter.com/tay_false">Twitter</a> | <a href="https://www.linkedin.com/in/taylor-true-324645b6/">LinkedIn</a>
 
 <h4>Current Projects:</h4>
 <a href="https://taylor-true.github.io/NH-pace/">New Hampshire 2018-2019 PACE Pilot Program: Disaggregated Data Visualization</a><br><br>
