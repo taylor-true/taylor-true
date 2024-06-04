@@ -14,7 +14,7 @@ Here, you can find many of my current data-centered mini-projects, visualization
 <a href="https://showspace.so/p/8883?refPageType=user&refPageLabel=Taylor%20True&refPageSlug=taylor-true-56">PISA 2018: Reading Scores and "Life Satisfaction" - Educational Data Mining</a>
 <br>
 <br>
-<a href="https://taylor-true.github.io/gis-kentucky-climate/">Interactive GIS Visualization: Kentucky School Climate Index Scores by County</a>
+<a href="https://taylor-true.github.io/gis-kentucky-climate/">Interactive GIS Visualization: Kentucky High School Outcomes, 2022-23</a>
 
 <br>
 <br>
